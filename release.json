@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": "artifact-pages/terraform-cloudflare-artifact-pages",
-  "sourceTag": "terraform-cloudflare/v0.1.0",
-  "sourceCommit": "dea0a2d53a1a04d4a7990d4fb985770fe334aaf1"
+  "sourceTag": "terraform-cloudflare/v0.1.1",
+  "sourceCommit": "f7096315531d2c124f9b2f64ff5f2393ff63ea7b"
 }
