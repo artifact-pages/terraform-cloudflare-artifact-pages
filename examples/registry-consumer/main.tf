@@ -1,6 +1,6 @@
 module "artifact_pages" {
   source  = "artifact-pages/artifact-pages/cloudflare"
-  version = "0.1.1"
+  version = "0.2.0"
 
   account_id             = var.cloudflare_account_id
   zone_id                = var.cloudflare_zone_id
